@@ -15,10 +15,13 @@ The system should be capable of performing basic operations like adding, removin
 - **Collections Framework**: Utilizes Java’s collections framework to manage and manipulate groups of objects.
 
 ### Expected Inputs and Outputs
-- **Inputs**: The application accepts user inputs through the command line or via method parameters in the code. These inputs can include various types of data (e.g., integers, strings, custom objects) depending on the class being utilized.
-- **Outputs**: The application outputs the results of operations performed on the data structures, such as adding, removing, or searching for elements. The output is typically displayed in the console.
-
-
+- **Program Objective**: demonstrates GenericContainer functionality with Game of Thrones houses:
+    House Stark, House Targaryen, and House Lannister.
+- Creating and adding instances to GenericContainers
+- Printing container contents
+- Sorting containers by different attributes
+- Removing and retrieving items
+- Printing container sizes
 
 ## Additional Information
 This project is a part of the Dev 1_Fall2024 course and was developed to showcase and employ version control using GitHub. 
